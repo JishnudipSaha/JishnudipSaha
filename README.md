@@ -28,9 +28,6 @@
 </picture>
 
 
-
-
-
 ###
 
 ## 🌐 Socials:
