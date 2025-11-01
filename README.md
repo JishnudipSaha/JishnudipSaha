@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jishnu</h1>
-<h3 align="center">A passionate Data science student</h3>
+<h1 align="center">Hi 👋, I'm Jishnudip</h1>
+<h3 align="center">A passionate Data Science Student</h3>
 
 - 🌱 I’m currently learning **Generative AI, FastAPI, Django**
 
