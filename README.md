@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Generative AI, FastAPI, Django**
 
-- 👨‍💻 All of my projects are available at [https://jishnudip-saha-portfolio-website.vercel.app/](https://jishnudip-saha-portfolio-website.vercel.app/)
+- 👨‍💻 All of my projects are available at [HERE](https://jishnudip-saha-portfolio-website.vercel.app/)
 
 - 💬 Ask me about **python, ML, DSA**
 
-- 📫 How to reach me **jishnudip.saha.2004@gmail.com**
+- 📫 How to reach me [Contact](mailto:jishnudip.saha.2004@gmail.com)
 
 - ⚡ Fun fact **I can make any one's day 😁**
 
