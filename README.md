@@ -17,11 +17,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j_se_jishnu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jishnudipsaha) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JishnudipSaha/JishnudipSaha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JishnudipSaha/JishnudipSaha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JishnudipSaha/JishnudipSaha/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/JishnudipSaha/JishnudipSaha/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
