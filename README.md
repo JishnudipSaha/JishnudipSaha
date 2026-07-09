@@ -90,14 +90,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JishnudipSaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnudipSaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=JishnudipSaha&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JishnudipSaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="49%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnudipSaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="49%" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=JishnudipSaha&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
 
 </div>
 
