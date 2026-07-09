@@ -86,30 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JishnudipSaha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnudipSaha&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JishnudipSaha&theme=radical&hide_border=true" alt="Streak Stats" width="80%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=JishnudipSaha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <picture>
@@ -128,10 +104,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=JishnudipSaha&color=blueviolet&style=flat-square)](https://github.com/JishnudipSaha)
-
-</div>
