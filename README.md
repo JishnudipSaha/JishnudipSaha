@@ -16,7 +16,7 @@
 - 🌱 Currently learning **MLOps, Generative AI, FastAPI, Django**
 - 💡 Passionate about **Machine Learning, Deep Learning, and building real-world AI products**
 - 🔧 I love turning complex problems into clean, scalable solutions
-- 📫 Reach me at [jishnudip.saha.2004@gmail.com](mailto:jishnudip.saha.2004@gmail.com)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/jishnudipsaha/)
 
 ---
 
